@@ -1,9 +1,10 @@
 # simple-animation-login
 
+<div align="center">
 ![When Hover](image/desktop.png)
 <br>
 ![When don't Hover](image/laptop.png)
-
+</div>
 ## Installation
 
 Clone Repository in you system
